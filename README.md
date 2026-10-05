@@ -28,34 +28,31 @@ The project provides a simple and user-friendly interface to access useful agric
 * Git & GitHub
 
 ---
-
-## 📸 Screenshots
+## 📸 Demo Screenshots
 
 ### 🏠 Home Page
 
-![Home Page](field.jpeg)
+![SmartCrop Advisory Home Page](field.jpeg)
 
-### 🌱 Soil Information
+### 🌱 Soil Advisory
 
-![Soil Information](soil.jpeg)
+![SmartCrop Soil Advisory](soil.jpeg)
 
-### 🐛 Pest Information
+### 🐛 Pest Advisory
 
-![Pest Information](pests.jpeg)
+![SmartCrop Pest Advisory](pests.jpeg)
 
 ### 🌦️ Weather Information
 
-![Weather Information](weather.jpeg)
+![SmartCrop Weather Information](weather.jpeg)
 
 ### 💰 Market Prices
 
-![Market Prices](price.jpeg)
+![SmartCrop Market Prices](price.jpeg)
 
 ### 🏛️ Government Schemes
 
-![Government Schemes](scheme.jpeg)
-
----
+![SmartCrop Government Schemes](scheme.jpeg)
 
 ## 📂 Project Structure
 
