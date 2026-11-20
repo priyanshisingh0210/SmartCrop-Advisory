@@ -28,36 +28,37 @@ The project provides a simple and user-friendly interface to access useful agric
 * Git & GitHub
 
 ---
-## 📸 Demo Screenshots
 
-### 🏠 Home Page
+## 📸 Website Preview
 
-![SmartCrop Advisory Home Page](field.jpeg)
+SmartCrop Advisory supports both English and Hindi languages, making agricultural information accessible to farmers in their preferred language.
 
-### 🌱 Soil Advisory
+### 🌍 Available Languages
 
-![SmartCrop Soil Advisory](soil.jpeg)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🇬🇧 English Version</h3>
+      <img src="assets/screenshots/home-page.png" alt="SmartCrop Advisory English Homepage" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <h3>🇮🇳 Hindi Version</h3>
+      <img src="assets/screenshots/home-page2.png" alt="SmartCrop Advisory Hindi Homepage" width="100%">
+    </td>
+  </tr>
+</table>
 
-### 🐛 Pest Advisory
-
-![SmartCrop Pest Advisory](pests.jpeg)
-
-### 🌦️ Weather Information
-
-![SmartCrop Weather Information](weather.jpeg)
-
-### 💰 Market Prices
-
-![SmartCrop Market Prices](price.jpeg)
-
-### 🏛️ Government Schemes
-
-![SmartCrop Government Schemes](scheme.jpeg)
+---
 
 ## 📂 Project Structure
 
 ```text
 SmartCrop-Advisory/
+│
+├── assets/
+│   └── screenshots/
+│       ├── home-page.png
+│       └── home-page2.png
 │
 ├── index.html
 ├── style.css
